@@ -16,7 +16,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<commons-net.version>3.6</commons-net.version>
+		<commons-net.version>3.9.0</commons-net.version>
 		<commons-pool2.version>2.6.2</commons-pool2.version>
 	</properties>
 
